@@ -14,7 +14,7 @@ The analysis covers five areas:
 - Channel performance and purchase behaviour
 - Product category revenue distribution
 
-Full technical walkthrough: [`notebook/marketing_campaign_analysis.ipynb`](notebook/marketing_campaign_analysis.ipynb)
+Full technical walkthrough: [`notebook/marketing_campaign_analysis.ipynb`](marketing_campaign_analysis.ipynb)
 
 ---
 
