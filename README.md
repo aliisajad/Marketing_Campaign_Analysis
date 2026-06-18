@@ -71,8 +71,6 @@ Champions drove the majority of responses across all campaigns. The At Risk segm
 
 RFM scoring placed each customer into one of four segments based on Recency, Frequency, and Monetary Value:
 
-![Segment Profile Overview](images/segment_profile_overview.png)
-
 | Segment | Customers | Avg Spend | Avg Income | Recency | Has Children | Campaign Response |
 |---|---|---|---|---|---|---|
 | Champions | 537 | €1,230 | €70,820 | 28 days | 48% | 29% |
